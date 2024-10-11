@@ -1,4 +1,4 @@
-pipeline {
+'''pipeline {
     agent any
     tools{
         jdk 'java-11'
@@ -58,4 +58,4 @@ pipeline {
 
 
     }
-}
+}'''
